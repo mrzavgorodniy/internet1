@@ -1,0 +1,7 @@
+npm i gulp -g
+npm init
+npm i gulp --save-dev
+
+npm install gulp-jade --save-dev
+gulp mytask
+
